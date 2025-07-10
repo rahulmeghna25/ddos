@@ -6,7 +6,7 @@ from Clonify import app
 
 #--------------------------
 
-MUST_JOIN = "https://t.me/+etqDprKnxV82ZWI1"
+MUST_JOIN = "@officialmeghna007"
 
 #--------------------------
 
